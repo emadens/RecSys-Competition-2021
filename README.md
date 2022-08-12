@@ -11,4 +11,4 @@ The training-test split is done via random holdout, 85% training, 15% test.
 The goal is to recommend a list of 10 potentially relevant items for each user. MAP@10 is used for evaluation. You can use any kind of recommender algorithm you wish e.g., collaborative-filtering, content-based, hybrid, etc. written in Python.
 
 ### Solution
-We managed to use the combination of 5 different models for getting to the result, the strongest model among all resulted to be the SLIM model.
+We managed to use the combination of 5 different models for getting to the result, the strongest model among all resulted to be the SLIM.
